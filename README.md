@@ -26,4 +26,4 @@
   - /get_posts_responses – returns dictionaries with posts and comments
   - /get_messages – returns processed posts with comments from the database
   - /exit – turns the bot off from the working state
-#### The main command is /sentiment_analysis, after which the user enters a message and the chat bot analyzes it, classifying it into one of three classes: positive 1, neutral 0, negative -1. It also displays the level of toxicity, where 0 is not toxic, 1 is maximum toxicity. I hope it's useful.
+### The main command is /sentiment_analysis, after which the user enters a message and the chat bot analyzes it, classifying it into one of three classes: positive 1, neutral 0, negative -1. It also displays the level of toxicity, where 0 is not toxic, 1 is maximum toxicity. I hope it's useful.
